@@ -1,0 +1,21 @@
+body {
+    background: #FCF1F0;
+    font-family: Arial, sans-serif;
+  }
+  
+  h1 {
+    color: #F3A8BB;
+  }
+  
+  #button {
+    border-style: solid;
+    padding: 5px;
+    margin: 10px;
+    text-decoration: none;
+    background-color: #F6C1C9;
+  }
+  
+  img {
+    width: 50%;
+    margin: 10px;
+  }
