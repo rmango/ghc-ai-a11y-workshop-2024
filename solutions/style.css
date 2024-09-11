@@ -13,7 +13,18 @@ body {
     margin: 10px;
     text-decoration: none;
     background-color: #F6C1C9;
+    width: 200px;
+    outline: none; /* Remove default outline */
   }
+
+  button:focus-visible {
+    outline: 2px solid red!important; /* Add a red outline when focused */
+    }
+    
+    a:focus {
+      outline: 2px solid red; /* Change outline color to red when a link is focused */
+    }
+
   
   img {
     width: 50%;
