@@ -23,6 +23,7 @@ Be responsible: make sure you understand all of the code that you're writing. Be
 - [Microsoft Copilot](copilot.microsoft.com)
 - [OpenAI ChatGPT](chatgpt.com)
 - [Google Gemini](gemini.google.com)
+- [Anthropic Claude](https://claude.ai/)
 
 ## Challenges
 ### Challenge 1
