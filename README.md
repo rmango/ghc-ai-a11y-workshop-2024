@@ -1,4 +1,4 @@
-# ghc-a11y-workshop-2024
+# Inclusive Web Development with GenAI Prompt Engineering
 Welcome to our A11y + Prompt Engineering workshop! Here you'll find our demo code. There are quite a few accessibility issues with this website. Can you use your new prompt engineering strategies to learn to fix them all?
 
 Try it yourself: https://jsfiddle.net/Morgan123/0h5xypew/
