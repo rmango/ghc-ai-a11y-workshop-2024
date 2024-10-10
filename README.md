@@ -19,6 +19,58 @@ Example: The website must meet the AAA level of WCAG 2.2. Use reputable sources 
 5. Sanity check the response. \
 Be responsible: make sure you understand all of the code that you're writing. Be aware that AI can hallucinate.
 
+## Popular AI Assistants 
+- [Microsoft Copilot](copilot.microsoft.com)
+- [OpenAI ChatGPT](chatgpt.com)
+- [Google Gemini](gemini.google.com)
+
+## Challenges
+### Challenge 1
+Craft a prompt to improve color contrast
+>```
+> Given this css:
+>
+>body {
+>background: #FCF1F0;
+>font-family: Arial, sans-serif;
+>}
+>
+>h1 {
+>color: #F3A8BB;
+>}
+>
+>#button {
+>border-style: solid;
+>padding: 5px;
+>margin: 10px;
+>text-decoration: none;
+>background-color: #F6C1C9;
+>width: 200px;
+>}
+>
+>img {
+>width: 50%;
+>margin: 10px;
+>}
+>
+>Evaluate this css for web accessibility, considering color blindness and visual impairment. Suggest changes to improve my website’s accessibility.
+>```
+### Challenge 2
+Craft a prompt to add alternative text to the images on your website. 
+>```
+>Alt text is a concise description (up to 150 characters) that conveys the meaning of the image. Given this image, generate alt text.
+>```
+
+### Challenge 3
+Write a prompt to improve keyboard accessibility. 
+>```
+>I will provide you with the HTML code of the website. Review it for keyboard accessibility and suggest improvements. 
+>```
+Copy and paste the HTML code into copilot. 
+## URLs to our "broken" and "fixed" example websites
+Broken: https://rmango.github.io/ghc-ai-a11y-workshop-2024/starter_code/ \
+Fixed: https://rmango.github.io/ghc-ai-a11y-workshop-2024/solutions/
+
 ## Resources for Continued Learning
 
 ### Accessibility
