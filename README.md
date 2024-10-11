@@ -26,6 +26,10 @@ Be responsible: make sure you understand all of the code that you're writing. Be
 - [Anthropic Claude](https://claude.ai/)
 
 ## Challenges
+### Prime the chat
+>```
+>Always respond using the following requirements: You are a web accessibility expert in charge of evaluating the accessibility of a website. Your target audience is web developers. The website must meet the AAA level of WCAG 2.2. Use reputable sources such as w3.org.
+>```
 ### Challenge 1
 Craft a prompt to improve color contrast
 >```
